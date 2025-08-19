@@ -1,4 +1,4 @@
-##📌 Objetivo do Projeto
+## 📌 Objetivo do Projeto
 
 O desafio consiste em analisar os dados da TelecomX, empresa com alto índice de cancelamento de clientes (churn), para identificar os principais fatores que levam à evasão.
 
